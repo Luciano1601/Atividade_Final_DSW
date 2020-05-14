@@ -1,0 +1,77 @@
+*{
+	padding:0px;
+	margin:0px;	
+}
+a{
+	text-decoration: none;
+	color:black;	
+}
+.home{
+	font-family:arial;	
+	background:url("papel-de-parede-tijolos-preto-papel-de-parede.jpg");
+	background-size:100%;
+}
+ul{
+	list-style:none;
+	
+}
+img{
+	width:300px;
+	
+	
+}
+.link{ 
+	display:none;
+	
+}
+.home1{
+	background-color: rgba(16,16,16,.5);
+	width:300px;
+	height:100%;
+
+	position:absolute;
+	transition:all .5s;
+}
+
+.home2{
+	top:112px;
+	position:absolute;
+	width:100%
+	
+	
+}
+
+a{
+	display:block;
+	padding: 20px 5px;
+	color:blue;	
+}
+a:hover{
+	background-color: white;
+	color:blue;
+	
+}
+.home{
+        padding:15px;
+        position:relative;
+		z-index:1;
+		left:-15px;
+		
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
